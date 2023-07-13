@@ -77,7 +77,7 @@
 
 <details>
 
-Ссылка файл HAProxy 
+Ссылка файл HAProxy https://github.com/Ivashka80/Claster_and_Balance/blob/main/haproxy_2.cfg
 
 ![image](https://github.com/Ivashka80/Claster_and_Balance/assets/121082757/604e5819-2e8b-47cc-922d-6706543f9190)
 
