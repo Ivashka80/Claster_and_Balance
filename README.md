@@ -60,11 +60,28 @@
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
+
+<details>
+
+![image](https://github.com/Ivashka80/Claster_and_Balance/assets/121082757/0fb5a1d0-c167-4b81-8822-5d47f7de7338)
+
+![image](https://github.com/Ivashka80/Claster_and_Balance/assets/121082757/460d98bf-9378-4979-adb9-4f7a6d997148)
+
+![image](https://github.com/Ivashka80/Claster_and_Balance/assets/121082757/e580c16a-d469-4864-9ac7-e0c3799b84c3)
+
+</details>
+
 - Настройте балансировку Weighted Round Robin на 7 уровне, чтобы первый сервер имел вес 2, второй - 3, а третий - 4
 - HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
+<details>
 
+Ссылка файл HAProxy 
+
+![image](https://github.com/Ivashka80/Claster_and_Balance/assets/121082757/604e5819-2e8b-47cc-922d-6706543f9190)
+
+</details>
 
 ---
 
