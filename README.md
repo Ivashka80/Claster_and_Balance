@@ -81,6 +81,8 @@
 
 ![image](https://github.com/Ivashka80/Claster_and_Balance/assets/121082757/604e5819-2e8b-47cc-922d-6706543f9190)
 
+![image](https://github.com/Ivashka80/Claster_and_Balance/assets/121082757/9d827381-b37f-49c6-ba73-814fc7d22f90)
+
 </details>
 
 ---
